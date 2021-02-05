@@ -27,20 +27,20 @@ section {
 }
 aside,
 section {
-    margin-right: 15px;
+    margin-right: 1.096%;
 }
 .container {
-    width: 1368px;
-    height: 400px;
-    padding: 15px;
+    width: 53,4375vw;
+    height: 37,0vh;
+    padding: 1.096%;
 }
 aside {
-    width: 456px;
-    height: 400px;
+    width: 33.3%;
+    height: 100%;
     float: left;
 }
 section {
-    width: 456px;
-    height: 400px;
+    width: 33.3%;
+    height: 100%;
     float: left;
 }
